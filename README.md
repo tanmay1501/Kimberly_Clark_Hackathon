@@ -1,5 +1,8 @@
 # Kimberly-Clark Hackathon: Optimal Paper Mill Location Analysis
 
+![Airflow](https://github.com/tanmay1501/dbt-snowflake/blob/main/airflow.png)
+![database](https://github.com/tanmay1501/dbt-snowflake/blob/main/database.png)
+
 ## Overview
 
 This project was developed as part of the Kimberly-Clark Hackathon to address a real-world logistics challenge: **identifying optimal locations for new Kimberly-Clark paper mills** across the United States. The goal was to engineer a data-driven logistics optimization solution that minimizes transportation costs for major metropolitan markets, while factoring in sustainability, employment, and ethical considerations.
