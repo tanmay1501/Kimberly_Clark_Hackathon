@@ -1,93 +1,98 @@
-Kimberly-Clark Hackathon: Optimal Paper Mill Location Analysis
-==============================================================
+# Kimberly-Clark Hackathon: Optimal Paper Mill Location Analysis
 
-Overview
---------
+![Airflow](https://github.com/tanmay1501/dbt-snowflake/blob/main/airflow.png)
+![database](https://github.com/tanmay1501/dbt-snowflake/blob/main/database.png)
+
+## Overview
 
 This project was developed as part of the Kimberly-Clark Hackathon to address a real-world logistics challenge: **identifying optimal locations for new Kimberly-Clark paper mills** across the United States. The goal was to engineer a data-driven logistics optimization solution that minimizes transportation costs for major metropolitan markets, while factoring in sustainability, employment, and ethical considerations.
 
-Problem Statement
------------------
+---
+
+## Problem Statement
 
 Kimberly-Clark sought to:
+- **Minimize transportation costs** for servicing key metro areas.
+- **Incorporate sustainability and employment factors** into location decisions.
+- **Ensure long-term ethical and business impact**.
 
-*   **Minimize transportation costs** for servicing key metro areas.
-    
-*   **Incorporate sustainability and employment factors** into location decisions.
-    
-*   **Ensure long-term ethical and business impact**.
-    
+---
 
-Solution Highlights
--------------------
+## Solution Highlights
 
-*   **Data Pipeline Automation**:Designed and implemented ETL pipelines in Python to extract, clean, and aggregate open-source datasets, automating manual data collection.
-    
-*   **Cloud-based Analytics Architecture**:Architected scalable workflows using Google BigQuery for data storage/processing, and developed regression models to simulate logistics scenarios across 20+ metropolitan regions.
-    
-*   **Interactive Dashboards**:Built Tableau dashboards to visualize mill locations, transportation routes, and cost scenarios for stakeholder insights and decision-making.
-    
-*   **Team & Stakeholder Collaboration**:Translated business objectives into technical requirements by working closely with team members and stakeholders, ensuring alignment with both logistics and broader business needs.
-    
+- **Data Pipeline Automation**  
+  Designed and implemented ETL pipelines in Python to extract, clean, and aggregate open-source datasets, automating manual data collection.
 
-Repository Structure
---------------------
+- **Cloud-based Analytics Architecture**  
+  Architected scalable workflows using Google BigQuery for data storage/processing, and developed regression models to simulate logistics scenarios across 20+ metropolitan regions.
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   bashCopyKimberly_Clark_Hackathon/  ├── Dashboards/          # Tableau dashboard files & visualizations  ├── Data/                # Raw and processed datasets  ├── Presentation/        # Final presentation and supporting documents  ├── .git/                # Git version control files  ├── .gitattributes  └── README.md            # Project overview and instructions   `
+- **Interactive Dashboards**  
+  Built Tableau dashboards to visualize mill locations, transportation routes, and cost scenarios for stakeholder insights and decision-making.
 
-How to Use This Repository
---------------------------
+- **Team & Stakeholder Collaboration**  
+  Translated business objectives into technical requirements by working closely with team members and stakeholders, ensuring alignment with both logistics and broader business needs.
 
-1.  bashCopygit clone https://github.com/yourusername/Kimberly\_Clark\_Hackathon.git
-    
-2.  **Data Processing**
-    
-    *   Scripts and Jupyter notebooks (see /Data folder) extract and preprocess open-source data relevant to logistics and sustainability.
-        
-    *   ETL pipelines automate data extraction and aggregation.
-        
-3.  **Analytics & Modeling**
-    
-    *   Python scripts (in /Data or /Presentation) model logistics scenarios using regression and cost-minimization techniques.
-        
-4.  **Dashboards**
-    
-    *   Open Tableau workbooks in the /Dashboards folder to interactively explore results and insights.
-        
-5.  **Presentation**
-    
-    *   Final results and business recommendations are included in the /Presentation folder.
-        
+---
 
-Technologies Used
------------------
+## Repository Structure
 
-*   **Python** (ETL pipelines, data cleaning, modeling)
-    
-*   **Google BigQuery** (cloud analytics, scalable storage)
-    
-*   **Tableau** (interactive dashboards)
-    
-*   **Jupyter Notebook**
-    
-*   **Git** (version control)
-    
+```
+Kimberly_Clark_Hackathon/
+├── Dashboards/          # Tableau dashboard files & visualizations
+├── Data/                # Raw and processed datasets
+├── Presentation/        # Final presentation and supporting documents
+├── .git/                # Git version control files
+├── .gitattributes
+└── README.md            # Project overview and instructions
+```
 
-Team & Acknowledgements
------------------------
+---
 
-Developed by:
+## How to Use This Repository
 
-*   \[Your Name(s)\]
-    
-*   \[Team Members\]
-    
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/yourusername/Kimberly_Clark_Hackathon.git
+   ```
 
-Special thanks to Kimberly-Clark mentors and stakeholders for guidance and feedback.
+2. **Data Processing**  
+   - Scripts and Jupyter notebooks (see `/Data` folder) extract and preprocess open-source data relevant to logistics and sustainability.
+   - ETL pipelines automate data extraction and aggregation.
 
-License
--------
+3. **Analytics & Modeling**  
+   - Python scripts (in `/Data` or `/Presentation`) model logistics scenarios using regression and cost-minimization techniques.
+
+4. **Dashboards**  
+   - Open Tableau workbooks in the `/Dashboards` folder to interactively explore results and insights.
+
+5. **Presentation**  
+   - Final results and business recommendations are included in the `/Presentation` folder.
+
+---
+
+## Technologies Used
+
+- **Python** (ETL pipelines, data cleaning, modeling)
+- **Google BigQuery** (cloud analytics, scalable storage)
+- **Tableau** (interactive dashboards)
+- **Jupyter Notebook**
+- **Git** (version control)
+
+---
+
+## Developed by
+
+- Tanmay Itkelwar
+- Kaushil Mangloria
+- Robin Shukla
+- Jahnani Sivakumar
+
+---
+
+## License
 
 This project is for educational and demonstration purposes only.
 
-_For questions or collaboration, please open an issue or contact the repository owner._
+---
+
+*For questions or collaboration, please open an issue or contact the repository owner.*
