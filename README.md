@@ -1,0 +1,2 @@
+# Kimberly_Clark_Hackathon
+ Addressed a real-world logistics challenge by identifying optimal locations for new paper mills for Kimberly-Clark. Engineered a data-driven logistics optimization solution to identify the best sites for new Kimberly-Clark paper mills, aiming to minimize transportation costs while incorporating sustainability and employment factors. The goal was to minimize transportation costs for major metro markets, while factoring in ethical, employment, and sustainability considerations for long-term impact.
