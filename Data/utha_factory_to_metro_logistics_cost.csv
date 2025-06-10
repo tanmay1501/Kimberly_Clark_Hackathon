@@ -1,0 +1,21 @@
+Metropolitan Area,Latitude,Longitude,Distance (mi),Tolls ($),Total Cost ($),Dest,Dest Lat,Dest Long
+"New York-Newark-Jersey City, NY-NJ-PA",40.7128,-74.006,2232.33,0,7144.74,Utah,40.905452,-112.693545
+"Los Angeles-Long Beach-Anaheim, CA",34.0522,-118.2437,710.48,0,2331.89,Utah,40.905452,-112.693545
+"Chicago-Naperville-Elgin, IL-IN-WI",41.8781,-87.6298,1457.95,0,4695.77,Utah,40.905452,-112.693545
+"Dallas-Fort Worth-Arlington, TX",32.7767,-96.797,1302.45,0,4204,Utah,40.905452,-112.693545
+"Houston-Pasadena-The Woodlands, TX",29.7604,-95.3698,1536.06,0,4942.79,Utah,40.905452,-112.693545
+"Miami-Fort Lauderdale-West Palm Beach, FL",25.7617,-80.1918,2598.13,0,8301.59,Utah,40.905452,-112.693545
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",38.9072,-77.0369,2138.6,0,6848.32,Utah,40.905452,-112.693545
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",39.9526,-75.1652,2200.98,0,7045.6,Utah,40.905452,-112.693545
+"Atlanta-Sandy Springs-Roswell, GA",33.749,-84.388,1934.57,0,6203.08,Utah,40.905452,-112.693545
+"Phoenix-Mesa-Chandler, AZ",33.4484,-112.074,684.88,0,2250.93,Utah,40.905452,-112.693545
+"Boston-Cambridge-Newton, MA-NH",42.3601,-71.0589,2425.61,0,7755.99,Utah,40.905452,-112.693545
+"San Francisco-Oakland-Berkeley, CA",37.7749,-122.4194,700.56,0,2300.52,Utah,40.905452,-112.693545
+"Riverside-San Bernardino-Ontario, CA",34.0556,-117.1825,676.09,0,2223.13,Utah,40.905452,-112.693545
+"Detroit-Warren-Dearborn, MI",42.3314,-83.0458,1725.09,0,5540.6,Utah,40.905452,-112.693545
+"Seattle-Tacoma-Bellevue, WA",47.6062,-122.3321,897.36,0,2922.9,Utah,40.905452,-112.693545
+"Minneapolis-St. Paul-Bloomington, MN-WI",44.9778,-93.265,1303.2,0,4206.37,Utah,40.905452,-112.693545
+"San Diego-Chula Vista-Carlsbad, CA",32.7157,-117.1611,771.95,0,2526.29,Utah,40.905452,-112.693545
+"Tampa-St. Petersburg-Clearwater, FL",27.9506,-82.4572,2389.9,0,7643.06,Utah,40.905452,-112.693545
+"Denver-Aurora-Lakewood, CO",39.7392,-104.9903,580.02,0,1919.31,Utah,40.905452,-112.693545
+"Baltimore-Columbia-Towson, MD",39.2904,-76.6122,2145.08,0,6868.82,Utah,40.905452,-112.693545
