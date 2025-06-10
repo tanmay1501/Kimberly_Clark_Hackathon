@@ -1,7 +1,7 @@
 # Kimberly-Clark Hackathon: Optimal Paper Mill Location Analysis
 
-![Airflow](https://github.com/tanmay1501/dbt-snowflake/blob/main/airflow.png)
-![database](https://github.com/tanmay1501/dbt-snowflake/blob/main/database.png)
+![Team_Member](https://github.com/tanmay1501/Kimberly_Clark_Hackathon/blob/main/Team%20Members.gif)
+![Dashboard](https://github.com/tanmay1501/Kimberly_Clark_Hackathon/blob/main/Dynamic%20Dashboard.gif)
 
 ## Overview
 
